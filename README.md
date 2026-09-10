@@ -119,9 +119,9 @@ Offer and deals application allowing users to browse, purchase and redeem mercha
 
 ### Project Links
 
-🔗 **Source Code:** Coming Soon  
-🌐 **Live Web Demo:** Coming Soon  
-📱 **Download APK:** Coming Soon
+🔗 **Source Code:** https://github.com/Rohitmodi1995/ShopFlow  
+🌐 **Live Web Demo:** https://shopflow-1d1e1.web.app/  
+📱 **Download APK:** https://github.com/Rohitmodi1995/ShopFlow/releases/tag/v1.0.0
 
 ---
 
