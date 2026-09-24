@@ -54,7 +54,7 @@ I focus on writing clean, maintainable Flutter code using **Provider, MVVM archi
 
 ## 💼 Professional Experience
 
-### Mobile Application Developer
+### Flutter Developer
 **Young Decade IT Software Solution**  
 Aug 2022 – Dec 2025
 
