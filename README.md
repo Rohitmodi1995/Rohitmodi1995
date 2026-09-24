@@ -55,7 +55,7 @@ I focus on writing clean, maintainable Flutter code using **Provider, MVVM archi
 ## 💼 Professional Experience
 
 ### Mobile Application Developer
-**Young Decade IT Solutions, Indore**  
+**Young Decade IT Software Solution**  
 Aug 2022 – Dec 2025
 
 - Developed cross-platform mobile applications using Flutter and Dart
